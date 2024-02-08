@@ -1,12 +1,12 @@
 {
   "name": "web-fullscreen-image",
   "version": "1.0.0",
-  "description": "web fullscreen image cycle, demo",
-  "main": "index.js",
+  "description": "web fullscreen image cycle, demo project",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Oleksandr Zubov",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.90.1"
