@@ -1,4 +1,5 @@
-## web fullscreen image
+### web fullscreen image
+## demo project
 
 html, css (sass), javascript, webpack
 
@@ -12,3 +13,4 @@ html, css (sass), javascript, webpack
 8. change image by swipe
 9. get images from some storage
 10. add hood controls: <=, =>, timer indicator
+11. add cites of famous philosophers on foreground
