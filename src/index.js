@@ -1,12 +1,4 @@
-// import { imageURL, imagesIdsList } from "./images";
-
-let imageURL = "https://source.unsplash.com/";
-
-let imagesIdsList = [
-  "body-of-water-surrounded-by-trees-NRQV-hBF10M",
-  "three-brown-wooden-boat-on-blue-lake-water-taken-at-daytime-T7K4aEPoGGk",
-  "brown-house-near-body-of-water-zAjdgNXsMeg",
-];
+import { imageURL, imagesIdsList } from "./images";
 
 document.addEventListener("DOMContentLoaded", () => {
   let imagesContainer = document.querySelector(".image-continer");
